@@ -23,23 +23,26 @@ Entertainment App is a web application that offers users the opportunity to expl
 Visit the website:
 https://full-stack-project-entertainment-app.vercel.app/
 
-Features
-Movie Catalog: Explore an extensive collection of movies with in-depth details.
-User Authentication: Register and log in to access personalized features.
-Bookmarking: Save your favorite movies for quick access.
-Recommendations: Receive personalized movie recommendations based on your preferences.
-Watch Trailers: View trailers of your favorite movies for a sneak peek.
-Technologies Used
-React: Front-end JavaScript library for building a dynamic user interface.
-Redux Toolkit: State management for React applications.
-Tailwind CSS: CSS framework for building modern and responsive designs.
-Node.js: JavaScript runtime for server-side development.
-Express.js: Web application framework for building the backend server.
-MongoDB: NoSQL database for storing user data and preferences.
-TMDB API: Integration for fetching movie details and trailers.
-Authentication: Implement user authentication for personalized experiences.
-Getting Started
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+## Features
+
+- Movie Catalog: Explore an extensive collection of movies with detailed information.
+- User Authentication: Register and log in to access personalized features.
+- Bookmarking: Save your favorite movies for quick and easy access.
+- Recommendations: Get personalized movie suggestions based on your preferences.
+- Watch Trailers: Preview movie trailers directly from the app.
+
+---
+
+## Technologies Used
+
+- React – Front-end JavaScript library for building a dynamic UI.
+- Redux Toolkit – Efficient state management for React apps.
+- Tailwind CSS – Utility-first CSS framework for responsive design.
+- Node.js – JavaScript runtime environment for server-side logic.
+- Express.js – Web framework for building RESTful APIs.
+- MongoDB – NoSQL database to store user data and preferences.
+- TMDB API – External API used to fetch movie data and trailers.
+- Authentication – Login/Register features for a personalized experience.
 
 
  
