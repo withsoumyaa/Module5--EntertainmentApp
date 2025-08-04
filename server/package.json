@@ -1,8 +1,8 @@
 {
-  "name":"Sushant's mern-stact-movie-app",
+  "name":"Soumya's mern-stact-movie-app",
   "type":"module",
   "version": "0.0.1",
-  "author":"Sushant Satish kumbhar",
+  "author":"Soumya",
   "main":"index.js",
   "license":"MIT",
   "scripts":{
